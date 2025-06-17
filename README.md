@@ -43,8 +43,13 @@
 </ul>
 
 ---
+> ⚠️ **Note:**  
+> If you get a GloVe or PyTorch Geometric installation error in Colab, restart the runtime session **2–3 times**.  
+> This usually fixes transient setup issues.
 
 <h2>📦 Installation</h2>
 
 ```bash
 pip install torch torch-geometric pandas
+
+
